@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/analyser-tassk/static/css/main.c4e16b5f.css",
+    "main.js": "/analyser-tassk/static/js/main.3f2f2186.js",
+    "static/js/453.e52305e5.chunk.js": "/analyser-tassk/static/js/453.e52305e5.chunk.js",
+    "static/media/logo.svg": "/analyser-tassk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/analyser-tassk/index.html",
+    "main.c4e16b5f.css.map": "/analyser-tassk/static/css/main.c4e16b5f.css.map",
+    "main.3f2f2186.js.map": "/analyser-tassk/static/js/main.3f2f2186.js.map",
+    "453.e52305e5.chunk.js.map": "/analyser-tassk/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e16b5f.css",
+    "static/js/main.3f2f2186.js"
+  ]
+}
